@@ -1,5 +1,7 @@
 # Diabetes_Regression_Analysis
 
+### Author : Gukhwan Hyun
+
   * [Brief Summary](#brief-summary)
   * [Objective](#objective)  
   * [Dataset](#dataset)
