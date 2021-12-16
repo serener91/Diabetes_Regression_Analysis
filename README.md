@@ -1,5 +1,13 @@
 # Diabetes_Regression_Analysis
- 
+
+  * [Brief Summary](#brief-summary)
+  * [Objective](#objective)  
+  * [Dataset](#dataset)
+  * [Data Analysis](#data-analysis)
+  * [Model](#model)
+  * [Conclusion](#conclusion)
+
+
 ## Brief Summary
 
 목적 (Objective) : 공복혈당을 기준으로 당뇨병 여부 예측하기.
