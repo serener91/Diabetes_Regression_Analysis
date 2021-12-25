@@ -8,6 +8,7 @@
   * [Data Analysis](#data-analysis)
   * [Model](#model)
   * [Model Validation](#model-validation)
+  * [Machine Learning](#machine-learning)
   * [Conclusion](#conclusion)
 
 
@@ -120,6 +121,7 @@ R-squared 값은 0.032. 공복혈당의 분산의 3%정도를 설명함
 
 
 * 다중 회귀 모델 (공복혈당 ~ BMI + 혈색소 + 감마지티피 + 지역 + 성별 + 요단백 + 흡연 + 연령 + 고혈압)
+
 |   | 훈련  | 테스트  |
 |---|---|---|
 | RMSE   | 22.38  | 22.28  |
